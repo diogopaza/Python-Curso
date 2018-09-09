@@ -10,7 +10,7 @@ comando vai listar tudo oque está na varável de ambiente path.
 
 <h2>Criando Ambiente Virtual</h2>
 
-<ol>
+<ul>
 	<li>conda create --name k27 python=2.7(k27 é o nome do ambiente e python=2.7 versao do python)</li>
 	<li>conda env list= lista os ambientes virtuais instalados</li>
-</ol>
+</ul>
