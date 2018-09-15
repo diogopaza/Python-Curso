@@ -27,3 +27,7 @@ comando vai listar tudo oque está na varável de ambiente path.
 <p>Qualquer aplicação desenvolvida com a biblioteca Kivy será executada em cima da biblioteca gráfica OpenGL.</p>
 <h5>OpenGL</h5>
 <p>É uma API de desenvolvimento de aplicações gráficas.</p>
+
+<h2>PIP</h2>
+<p>pip é um sistema de gerenciamento de pacotes usado para instalar e gerenciar pacotes de software np Python.</p>
+<p><strong>Exemplo: pip install algum-nome-de-pacote</strong></p>
