@@ -8,6 +8,7 @@
 	<li>alt+p == volta instrução anterior no IDLE</li>
 	<li>alt+n == avança instrução que foi executada no IDLE</li>
 	<li>ctrl+f6 = reinicia o IDLE</li>
+	<li>nome_variavel = input("digite algo") == guarda a entrada de dados( valor digitado )na variavel </li>
 </ul>
 <h4>Comentários</h4>
 <p>Para comentar uma linha utilizamos o caracter #(sustenido)</p>
@@ -63,5 +64,20 @@ comando vai listar tudo oque está na varável de ambiente path.
 print("O valor é: ", num_int)
 print("O valor é: %i" %num_int)
 print("O valor é: " + str(num_int))
+
+<h6>Concatenando ponto flutuante</h6>
+print("Concatenando decimal %.10f" %num_dec)<br>
+Neste exemplo é possível controlar o número de casas decimal, especificando esse valor após o caracter %
+<h6>Concatenando mais de um valor</h6>
+login = input("Login: ") #usuario guarda um valor de login
+senha = input("Senha")	  #usuario guarda um valor de senha
+print("O usuário informado foi %s, e a senha digitada foi %s "%(login, senha) ) #exibi valor de login e senha
+<h3>OPERAÇÕS MATEMÁTICAS</h3>
+<h5>** é o operador utilizado para Potenciação</h5>
+Exemplo: print(5**2)
+
+
+
+
 
 
