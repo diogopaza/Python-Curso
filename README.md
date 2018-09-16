@@ -48,3 +48,6 @@ comando vai listar tudo oque está na varável de ambiente path.
 <p> </p>
 <h3>IDLE</h3>
 <p>Proporcionar uma maneira rápida e fácil aprender e utlizar o Python</p>
+
+<h5>Variáveis Python</h5>
+<p> type( nomeDaVariavel) == retorna o tipo da varável</p>
