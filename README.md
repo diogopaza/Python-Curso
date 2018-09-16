@@ -9,7 +9,9 @@
 	<li>alt+n == avança instrução que foi executada no IDLE</li>
 	<li>ctrl+f6 = reinicia o IDLE</li>
 </ul>
-
+<h4>Comentários</h4>
+<p>Para comentar uma linha utilizamos o caracter #(sustenido)</p>
+<p>Para comnetar várias linhas usamos 3 vezes o aspa dupla para abrir o comentário e repetimos para fechar o bloco de comentário</p>
 <h3>Link para baixar os pacotes do Python</h3>
 <a href='https://www.lfd.uci.edu/~gohlke/pythonlibs'>bibliotecas do Python</a>
 <h2>Ambientes Virtuais</h2>
