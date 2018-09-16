@@ -50,4 +50,18 @@ comando vai listar tudo oque está na varável de ambiente path.
 <p>Proporcionar uma maneira rápida e fácil aprender e utlizar o Python</p>
 
 <h5>Variáveis Python</h5>
+<ul>
+	<li>Toda varável tem um NOME</li>
+	<li>UM TIPO</li>
+	<li>UM TAMANHO</li>
+	<li>UM VALOR</li>
+</ul>
 <p> type( nomeDaVariavel) == retorna o tipo da varável</p>
+<p>Python é uma linguagem de tipagem dinâmica</p>
+<h6>Para concatenar nós usamos o caracter</h6>
+<p>Alguns exemplos:<br></p>
+print("O valor é: ", num_int)
+print("O valor é: %i" %num_int)
+print("O valor é: " + str(num_int))
+
+

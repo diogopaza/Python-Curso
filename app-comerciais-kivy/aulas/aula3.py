@@ -4,4 +4,3 @@ print(texto)
 
 type(texto)
 print( type(texto)
-       )
