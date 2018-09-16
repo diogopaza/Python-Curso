@@ -1,6 +1,17 @@
 <h1>Curso Python</h1>
 
+<h3>Comando Python</h3>
+<ul>
+	<li>python = entra no Python</li>
+	<li>exit() = sai do Python</li>
+	<li>print("texto a ser impresso")</li>
+	<li>alt+p == volta instrução anterior no IDLE</li>
+	<li>alt+n == avança instrução que foi executada no IDLE</li>
+	<li>ctrl+f6 = reinicia o IDLE</li>
+</ul>
 
+<h3>Link para baixar os pacotes do Python</h3>
+<a href='https://www.lfd.uci.edu/~gohlke/pythonlibs'>bibliotecas do Python</a>
 <h2>Ambientes Virtuais</h2>
 <h3>Anaconda</h3>
 <p>Anaconda é uma ferramenta computacional gratuita que permite gerir distribuições Python.</p>
@@ -31,3 +42,7 @@ comando vai listar tudo oque está na varável de ambiente path.
 <h2>PIP</h2>
 <p>pip é um sistema de gerenciamento de pacotes usado para instalar e gerenciar pacotes de software np Python.</p>
 <p><strong>Exemplo: pip install algum-nome-de-pacote</strong></p>
+<h2>IDE PYCHARM</h2>
+<p> </p>
+<h3>IDLE</h3>
+<p>Proporcionar uma maneira rápida e fácil aprender e utlizar o Python</p>
