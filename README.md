@@ -72,9 +72,15 @@ Neste exemplo é possível controlar o número de casas decimal, especificando e
 login = input("Login: ") #usuario guarda um valor de login
 senha = input("Senha")	  #usuario guarda um valor de senha
 print("O usuário informado foi %s, e a senha digitada foi %s "%(login, senha) ) #exibi valor de login e senha
+**No caso do float pode se utilizar a opção %.2f por exemplo para mostrar apenas duas casas decimais após o ponto, caso seja necessário mais casas decimais é só aumentar o valor 2 para o número de casas decimais desejadas.
 <h3>OPERAÇÕS MATEMÁTICAS</h3>
 <h5>** é o operador utilizado para Potenciação</h5>
 Exemplo: print(5**2)
+<H3>OPERADORES LÓGICOS</H3>
+IGUALDADE ==<br>
+DIFERENTE !=<br>
+
+
 
 
 

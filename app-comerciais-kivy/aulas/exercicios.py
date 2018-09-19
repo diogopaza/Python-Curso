@@ -27,7 +27,7 @@ num1 = int(input('Digite um numero'))
 num2 = int(input('Digite um numero'))
 soma = num1 + num2
 print("a soma entre %i e %i é igual %i" %(num1, num1, soma) )
-"""
+
 
 nota1 = float(input("Digite a primeira nota"))
 nota2 = float(input("Digite a segunda nota"))
@@ -36,4 +36,11 @@ nota4 = float(input("Digite a quarta nota"))
 media = ( nota1 + nota2 + nota3 + nota4) / 4
 print("A média é: %f" %media)
 
+metros = float(input("Digite o valor em metros"))
+print(metros," metros é igual a", metros * 100, "centímetros")
+"""
+valor = float( input('Digite um numero') )
+quadrado = ( valor ** 2 )
+cubo =  (valor ** 3 )
+print("O quadrado do numero %.2f é %.2f" %(valor, quadrado))
 
