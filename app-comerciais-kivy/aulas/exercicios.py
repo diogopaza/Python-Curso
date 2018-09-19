@@ -38,9 +38,36 @@ print("A média é: %f" %media)
 
 metros = float(input("Digite o valor em metros"))
 print(metros," metros é igual a", metros * 100, "centímetros")
-"""
+
 valor = float( input('Digite um numero') )
 quadrado = ( valor ** 2 )
 cubo =  (valor ** 3 )
 print("O quadrado do numero %.2f é %.2f" %(valor, quadrado))
+print("O cubo do numero %.2f é %.2f" %(valor, cubo))
+
+
+dividendo= float( input("Digite o valor do dividendo"))
+divisor= float( input("Digite o valor do divisor"))
+resultado = dividendo /divisor
+print("Resultado com resto: %f" %resultado)
+print("Resultado sem resto: %.0f" %resultado)
+
+
+altura = float(input("Digite a largura do retangulo: "))
+largura = float(input("Digite a altura do retangulo: "))
+resultado = largura * altura
+print("O retangulo tem %f metros quadrados" %resultado)
+
+
+
+valor = float( input("Digite o valor da compra "))
+valor_com_desconto =   valor - (valor * 0.10)
+print("O valor com desconto é de: %f" %valor_com_desconto)
+
+"""
+
+
+
+
+
 
