@@ -80,6 +80,10 @@ Exemplo: print(5**2)
 IGUALDADE ==<br>
 DIFERENTE !=<br>
 
+<h2>IDE PYCHARM</h2>
+<p>O PyCharma cria uma subpasta .ide onde ficam os arquivos de configuração do projeto</p>
+
+
 
 
 
