@@ -82,6 +82,9 @@ DIFERENTE !=<br>
 
 <h2>IDE PYCHARM</h2>
 <p>O PyCharma cria uma subpasta .ide onde ficam os arquivos de configuração do projeto</p>
+<h6>Plugins</h6>
+<p>Plugins consomem muita performace do nosso sistema</p>
+<p>https://plugins.jetbrains.com/pycharm, este é o site para baixar plugins para o PyCharm</p>
 
 
 
